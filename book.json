@@ -1,0 +1,9 @@
+{
+  "title": "极客学院 重构课程",
+  "language": "zh-hans",
+  "plugins": [
+    "-highlight",
+    "code-highlighter",
+    "favicon"
+  ]
+}
