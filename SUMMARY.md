@@ -8,8 +8,9 @@
   * [我的Coding演示I：热身](content/units/3-example-i.md)
   * [任务1：初识重构](content/units/4-first-impression.md)
   * [任务2：补充单元测试](content/units/5-add-more-unit-tests.md)
-  * [我的Coding演示II：进一步重构](content/units/6-example-ii.md)
-  * [任务3：熟悉重构手法](content/units/7-basic-refactorings.md)
-  * [任务4：再撸一遍](content/units/8-practice-again.md)
-  * [项目总结](content/units/9-project-summary.md)
+  * [寻找其他的坏代码](content/units/6-find-other-bad-smells.md)
+  * [我的Coding演示II：进一步重构](content/units/7-example-ii.md)
+  * [任务3：熟悉重构手法](content/units/8-basic-refactorings.md)
+  * [任务4：再撸一遍](content/units/9-practice-again.md)
+  * [项目总结](content/units/10-project-summary.md)
 * 镶金玫瑰
