@@ -1,6 +1,7 @@
 # 目录
 
 * [README](README.md)
+* [课程目标&安排](content/goals.md)
 * 单位转换
   * [项目导学](content/units/index.md)
   * [什么是重构](content/units/1-what-is-refactoring.md)
