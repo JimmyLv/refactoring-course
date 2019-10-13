@@ -6,6 +6,7 @@
   * [项目导学](content/units/index.md)
   * [什么是重构](content/units/1-what-is-refactoring.md)
   * [热身练习](content/units/2-coding-practice.md)
+  * [项目剖析](content/units/3-project-analyse.md)
   * [我的Coding演示I：热身](content/units/3-example-i.md)
   * [任务1：初识重构](content/units/4-first-impression.md)
   * [任务2：补充单元测试](content/units/5-add-more-unit-tests.md)
