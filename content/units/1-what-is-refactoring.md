@@ -8,7 +8,7 @@
 | 请在这里写下你的思考 |
 ——————————————————————
 
-![](./images/seperator-australia-queensland.jpg)
+![](images/separator-australia-queensland.jpg)
 
 优化代码的结构，当然是件善莫大焉的好事，但因为优化使得 bug 频频出现，也算是重构吗？是不是所有优化调整代码结构的行为，都叫做重构呢？测试都没有写、写不全，就开始调整代码的结构，算是重构吗？这些问题，读者的回答是什么呢？
 
