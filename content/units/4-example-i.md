@@ -6,7 +6,7 @@
 - 我是如何进行重构的
 
 <a href="./videos/1-initial-implementation-480p.mov" target="_blank">
-  <img src="./images/find-references.png" alt="" width="1392" height="494" />
+  <img src="./images/click-me.png" alt="" width="257" height="257" />
 </a>
 
 ## 配套资料

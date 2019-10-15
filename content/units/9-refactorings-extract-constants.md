@@ -117,4 +117,6 @@ describe("Length", () => {
 
 ## 我的 Coding 演示：抽取常量
 
-【录一个视频】
+<a href="./videos/2-extract-variables-480p.mov" target="_blank">
+  <img src="./images/click-me.png" alt="" width="257" height="257" />
+</a>
