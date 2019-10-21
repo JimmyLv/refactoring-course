@@ -100,6 +100,7 @@
 ## 参考资料
 
 * https://kata-log.rocks/refactoring
+* https://www.bilibili.com/video/av67145144/ —— 这个人的博客有不少重构的代码
 * 书籍：重构、对象练功操、修改代码的艺术
 * 看一下TDD课程已经涉及的东西和没涉及的东西
 
