@@ -20,3 +20,5 @@
   * [我的Coding演示：快捷键版](content/units/14-example-iii-use-ide-shortcuts.md)
   * [项目总结](content/units/15-project-summary.md)
 * 镶金玫瑰
+  * [项目导学](content/rose/index.md)
+
